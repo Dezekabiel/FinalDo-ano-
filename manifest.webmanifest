@@ -1,0 +1,9 @@
+{
+  "name": "Projeto BAEP",
+  "short_name": "Projeto BAEP",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0d1511",
+  "theme_color": "#14251e",
+  "icons": []
+}
